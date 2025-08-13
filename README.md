@@ -1,7 +1,7 @@
 # ML-firesforest
 
 **Context**
-This project aims to estimate forest fire in M using a supervised machine learning approach.
+This project aims to predict forest fire in Montesinho park using a supervised machine learning approach.
 
 
 
@@ -12,9 +12,9 @@ This project aims to estimate forest fire in M using a supervised machine learni
 
 
 
-- 🛠 GitHub Repository: [project-ml-house-pricing](https://github.com/JujuGnirt/project-ml-house-pricing)
-- 📋 Trello Board: [Project Tasks & Timeline](https://trello.com/b/FMGH2mNw/ml-house-pricing)
-- Presentation: [Canva] https://www.canva.com/design/DAGupoMTRuI/LrJn_LhgrqEjyGea4UsNZQ/edit?utm_content=DAGupoMTRuI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+- 🛠 GitHub Repository: [project-ml-forest-fires](https://github.com/JujuGnirt/ML-firesforest/tree/main)
+
+- Presentation: [Canva] https://www.canva.com/design/DAGv2s8ACWE/-EqeNi_0ZcvOMJXpCqbrRg/edit?utm_content=DAGv2s8ACWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 ---
 
